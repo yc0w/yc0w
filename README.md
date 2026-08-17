@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">18 y/o dev from TW. i like ripping things apart to understand how they work, then building something better from the pieces.<br><br>i like cybersecurity,tools and i like making program /Stealer , grabber ,Rat ,C2, ...</p>
+<p align="left">18 y/o dev from TW. i like ripping things apart to understand how they work, then building something better from the pieces.<br><br>i like cybersecurity,tools and i like making program</p>
 
 ###
 
